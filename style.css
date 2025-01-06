@@ -1,0 +1,40 @@
+
+.navbar-gradient {
+    background: linear-gradient(to right, #00008b, #0000cd);
+}
+.navbar-nav .nav-link,
+.navbar-brand,
+.navbar-toggler {
+    color: white;
+    font-weight: bold;
+}
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus,
+.navbar-brand:hover,
+.navbar-brand:focus {
+    color: #ffcc00;
+}
+.footer {
+    background-color: #343a40;
+    color: white;
+    padding: 40px 0;
+}
+.footer a {
+    color: #ffcc00;
+    text-decoration: none;
+}
+.footer a:hover {
+    text-decoration: underline;
+}
+.footer .social-icons a {
+    color: white;
+    margin: 0 10px;
+    font-size: 20px;
+}
+.card {
+    margin: 15px 0;
+}
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
